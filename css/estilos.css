@@ -33,3 +33,10 @@ body{
     font-weight:400;
     font-size:.8em
 }
+
+#footer{
+    background: rgb(106, 144, 240);
+    color: rgb(42, 39, 15);
+    text-align: center;
+    padding: 0.4em;
+}
